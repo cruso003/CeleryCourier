@@ -77,8 +77,5 @@ This project implements a Django application behind Nginx that interacts with Ra
 
 ## Authors
 
-- List team members who contributed to this project.
+- Geitodyu Henrique Crusoe ("https://github.com/Cruso003")
 
-## License
-
-- Mention the license under which the project is distributed.
