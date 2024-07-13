@@ -10,9 +10,9 @@
   - [x] Implement `/?talktome` Endpoint.
   - [x] Setup `/logs` route for application logs.
 
-- [ ] **Nginx Configuration**
-  - [ ] Configure Nginx to serve Django.
-  - [ ] Route requests to Django endpoints.
+- [x] **Nginx Configuration**
+  - [x] Configure Nginx to serve Django.
+  - [x] Route requests to Django endpoints.
 
 - [ ] **Endpoint Access**
   - [ ] Expose endpoint using ngrok.
