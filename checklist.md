@@ -14,9 +14,9 @@
   - [x] Configure Nginx to serve Django.
   - [x] Route requests to Django endpoints.
 
-- [ ] **Endpoint Access**
-  - [ ] Expose endpoint using ngrok.
-  - [ ] Ensure stable external access.
+- [x] **Endpoint Access**
+  - [x] Expose endpoint using ngrok.
+  - [x] Ensure stable external access.
 
 - [ ] **Documentation**
   - [ ] Create README.md.

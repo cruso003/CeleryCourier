@@ -38,10 +38,7 @@ CELERY_TASK_SERIALIZER = 'json'
 CELERY_RESULT_SERIALIZER = 'json'
 CELERY_TIMEZONE = 'UTC'
 
-ALLOWED_HOSTS = [
-    '127.0.0.1',
-    'localhost',
-]
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', '[::1]', '279f-41-75-191-61.ngrok-free.app']
 
 # Application definition
 INSTALLED_APPS = [
