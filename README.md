@@ -43,7 +43,7 @@ This project implements a Django application behind Nginx that interacts with Ra
    ```
    - Start django app
    ```zsh
-   python manage.py startapp messaging 
+   python manage.py startapp messagehandler 
    ```
 --------------------------------------------------
 

@@ -5,10 +5,10 @@
   - [x] Create Django project.
   - [x] Implement Django app.
 
-- [ ] **Endpoint Functionalities**
-  - [ ] Implement `/?sendmail` Endpoint.
-  - [ ] Implement `/?talktome` Endpoint.
-  - [ ] Setup `/logs` route for application logs.
+- [x] **Endpoint Functionalities**
+  - [x] Implement `/?sendmail` Endpoint.
+  - [x] Implement `/?talktome` Endpoint.
+  - [x] Setup `/logs` route for application logs.
 
 - [ ] **Nginx Configuration**
   - [ ] Configure Nginx to serve Django.
