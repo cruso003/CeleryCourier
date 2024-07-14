@@ -18,20 +18,20 @@
   - [x] Expose endpoint using ngrok.
   - [x] Ensure stable external access.
 
-- [ ] **Documentation**
-  - [ ] Create README.md.
-  - [ ] Document setup instructions.
-  - [ ] Detail endpoint functionalities.
-  - [ ] Explain Nginx configuration.
-  - [ ] Include screenshots and video walk-through.
+- [x] **Documentation**
+  - [x] Create README.md.
+  - [x] Document setup instructions.
+  - [x] Detail endpoint functionalities.
+  - [x] Explain Nginx configuration.
+  - [x] Include screenshots and video walk-through.
 
-- [ ] **Testing and Validation**
-  - [ ] Test email sending functionality.
-  - [ ] Validate logging functionality.
-  - [ ] Verify Nginx routing.
+- [x] **Testing and Validation**
+  - [x] Test email sending functionality.
+  - [x] Validate logging functionality.
+  - [x] Verify Nginx routing.
 
-- [ ] **Screen Recording**
-  - [ ] Record setup and deployment walk-through.
-  - [ ] Include RabbitMQ/Celery setup.
-  - [ ] Demonstrate endpoint functionality.
-  - [ ] Show ngrok setup and usage.
+- [x] **Screen Recording**
+  - [x] Record setup and deployment walk-through.
+  - [x] Include RabbitMQ/Celery setup.
+  - [x] Demonstrate endpoint functionality.
+  - [x] Show ngrok setup and usage.

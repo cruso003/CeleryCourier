@@ -28,8 +28,8 @@ def send_email_task(to_email):
     )
 
     send_mail(
-        'Subject',
-        'Message body',
+        'Test Message',
+        'This is a test message from Celery Courier messaging app!',
         settings.EMAIL_HOST_USER,
         [to_email],
         connection=connection,
